@@ -1,0 +1,26 @@
+{
+  "name": "otpgen",
+  "version": "1.0.0",
+  "description": "generate random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syamdanda/OTPGen.git"
+  },
+  "keywords": [
+    "OTP",
+    "Random",
+    "number",
+    "generate",
+    "number"
+  ],
+  "author": "Syam Danda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syamdanda/OTPGen/issues"
+  },
+  "homepage": "https://github.com/syamdanda/OTPGen#readme"
+}
