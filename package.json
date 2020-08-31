@@ -1,6 +1,6 @@
 {
   "name": "otpgen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate random number",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "number"
   ],
   "author": "Syam Danda",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "bugs": {
     "url": "https://github.com/syamdanda/OTPGen/issues"
   },
